@@ -1,2 +1,2 @@
-# Sistem-Pendukung-Keputusan-Pemilihan-Sepeda-Motor
-Sistem Pendukung Keputusan (SPK) Pemilihan Sepeda Motor Matic berbasis Web menggunakan metode TOPSIS
+# Aplikasi-Pemilihan-Sepeda-Motor
+Aplikasi Pemilihan Sepeda Motor Berbasis Web menggunakan Sistem Pendukung Keputusan (SPK) dengan metode TOPSIS
